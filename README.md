@@ -3,7 +3,7 @@
 #### [UKP Lab, Technical University of Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
 #### [Institut für Publizistik, Johannes Gutenberg-University Mainz](https://www.uni-mainz.de)
 
-Source code and data from our user study of our [ACL 2021 article](). A preprint version of the article is available on [arxiv]( https://arxiv.org/abs/2105.12980).
+Source code and data from our user study of our [ACL 2021 article](https://aclanthology.org/2021.acl-long.1/). A preprint version of the article is available on [arxiv]( https://arxiv.org/abs/2105.12980).
 
 ```
 @inproceedings{beck-etal-2021-label-suggestions,
